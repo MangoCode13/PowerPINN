@@ -6,7 +6,7 @@
 
 # Keep files you want on GitHub
 !PINN.ipynb
-!Readme.md
+!README.md
 !ieee14_training_data.pt
 !requirements.txt
 
