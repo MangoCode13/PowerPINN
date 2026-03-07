@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep gitignore tracked
+!.gitignore
+
+# Keep files you want on GitHub
+!PINN.ipynb
+!Readme.md
+!ieee14_training_data.pt
+!requirements.txt
+
