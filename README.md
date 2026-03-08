@@ -9,6 +9,10 @@ The notebook combines:
 
 In short, the model learns grid state estimation from measurements while being penalized when predictions violate power-system physics.
 
+## Python Version
+- Required Python version: `3.12`
+- Verify locally with: `python --version`
+
 ## Neural Network Architecture and Training Data
 - Inputs are 28 features per scenario: first 14 are active power-related terms (`P`), last 14 are reactive power-related terms (`Q`).
 - Outputs are 28 state values: 14 voltage magnitudes and 14 voltage angles.
