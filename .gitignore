@@ -12,4 +12,5 @@
 !.python-version
 !images/
 !images/**
+!Data_Viewer.ipynb
 
