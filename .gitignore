@@ -8,8 +8,11 @@
 !PINN.ipynb
 !README.md
 !ieee14_training_data.pt
+!ieee14_test_data.pt
+!ieee14_test_data_fdi_3_bus_5pct.pt
 !requirements.txt
 !.python-version
+!.gitattributes
 !images/
 !images/**
 !Data_Viewer.ipynb
