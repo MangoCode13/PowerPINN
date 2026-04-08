@@ -16,4 +16,6 @@
 !images/
 !images/**
 !Data_Viewer.ipynb
+!ieee14_training_data_norm.pt
+!ieee14_test_data_norm.pt 
 
